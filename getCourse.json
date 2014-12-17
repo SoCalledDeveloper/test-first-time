@@ -1,0 +1,16 @@
+{
+  "author": "DEEPANSHU TUTEJA",
+  "name": "testJson",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cdnjs/cdnjs.git"
+  },
+  "scripts": {
+    "build": "./build/build.js",
+    "test": "vows"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
